@@ -1,0 +1,33 @@
+ 
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    font-family: 'Bree Serif', serif;
+}
+
+.main{
+    background-image: url(../img/bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+.header{
+    background: rgba(16, 17, 17, 0.3);  
+    font-size: 1.5em;
+}
+
+
+
+.menu{
+    color: white;
+    height: 300px;
+    /*position: absolute;
+    left: 50%;
+    right: 50%;
+    transform: translate(50%,50%);*/
+}
+
+.fotter{
+    background: rgba(16, 17, 17, 0.3);  
+}
